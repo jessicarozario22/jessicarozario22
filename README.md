@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jessica Mary Rozario</h1>
 <h3 align="center">UI/UX Designer | WordPress Developer | Aspiring Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicarozario22&label=Profile%20views&color=0e75b6&style=flat" alt="jessicarozario22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessicarozario22" alt="jessicarozario22" /></a> </p>
-
 - 🔭 I’m currently working on [UX UI Design](https://www.behance.net/jessicarozario1)
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
