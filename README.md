@@ -1,3 +1,4 @@
+![Alt text](jessica-mary-rozario-linkedin-banner.webp.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF8A00&background=0D111700&center=true&vCenter=true&width=1080&lines=UI%2FUX+Designer;Aspiring+Full-Stack+Developer;Learning+JavaScript+%26+MERN;Building+Responsive+Web+Experiences;Designs+into+Functional+Products)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Jessica Mary Rozario</h1>
 <h3 align="center">UI/UX Designer | WordPress Developer | Aspiring Full-Stack Developer</h3>
