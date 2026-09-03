@@ -1,4 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF8A00&background=0D111700&width=435&lines=UI%2FUX+Designer;Aspiring+Full-Stack+Developer;Learning+JavaScript+%26+MERN;Building+Responsive+Web+Experiences;Turning+Designs+into+Functional+Products)](https://git.io/typing-svg)
+</div>
 <h1 align="center">Hi 👋, I'm Jessica Mary Rozario</h1>
 <h3 align="center">UI/UX Designer | WordPress Developer | Aspiring Full-Stack Developer</h3>
 
